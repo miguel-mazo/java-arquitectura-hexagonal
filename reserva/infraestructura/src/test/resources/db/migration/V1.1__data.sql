@@ -1,0 +1,2 @@
+insert into reserva(id, nombre_persona, fecha_reserva, valor_alquiler, estado) values(1,'primera reserva','01/01/1111', 100, 'ACTIVA');
+insert into reserva(id, nombre_persona, fecha_reserva, valor_alquiler, estado) values(2,'segunda reserva','02/02/2222', 100, 'CANCELADA');

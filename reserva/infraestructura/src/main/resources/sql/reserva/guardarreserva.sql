@@ -1,0 +1,1 @@
+insert into reserva(id, nombre_persona, fecha_reserva, valor_alquiler, estado) values(:id, :nombre_persona, :fecha_reserva, :valor_alquiler, :estado)
